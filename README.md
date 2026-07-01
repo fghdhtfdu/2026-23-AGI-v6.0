@@ -1,4 +1,5 @@
 2026年智泊第23期AGI大模型应用开发实践班v6.0
+ 
  [大型资源站xingkeit.top](http://xingkeit.top/)
 
 
